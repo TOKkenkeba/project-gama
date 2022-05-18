@@ -1,5 +1,5 @@
 import { canvas } from './classes/canvas.js'
-import { Player } from './classes/Player.js'
+import { Player } from './classes/player.js'
 import { config } from './classes/Config.js'
 import { controller } from './classes/controller.js'
 import { gun } from './classes/gun.js'
